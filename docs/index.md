@@ -43,6 +43,7 @@ Now on fresh paper with working part of application we Combine the all to a Func
 ```text
 Make every data strctures Immutable.
 ```
+
 Now How would we change the things if everything is Immutable.
 
 Now we will ask for Copy of the datastrcture that have same things that we require.
@@ -61,4 +62,16 @@ Now the solution is Persistent Data Strcture.
 
 ## What is it like?
 
+Magic
+
+No Magic
+
+You can Still Have redundant Code.
+
+You can still Write bad code using Functional Programming.
+
 ## Does it Work?
+
+yes, It works Seemlessly.
+
+`Reference` : `https://youtu.be/0if71HOyVjY`
