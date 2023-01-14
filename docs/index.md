@@ -57,7 +57,9 @@ Now we have a problem of COPIES? ISNT'IT?
 Now the solution is Persistent Data Strcture.
 
 ```text
-
+Ordinary data structures are ephemeral in the sense that making a change to the
+structure destroys the old version, leaving only the new one.
+But a persistent data structure or not ephemeral data structure is a data structure that always preserves the previous version of itself when it is modified.
 ```
 
 ## What is it like?
