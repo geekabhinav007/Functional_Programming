@@ -48,7 +48,7 @@ Now How would we change the things if everything is Immutable.
 
 Now we will ask for Copy of the datastrcture that have same things that we require.
 Means If we have an array `a = [1,2,3]` we will ask for a copy of array a having middle element `5`.
-`acopy = [1,2,3]`.
+`acopy = [1,5,3]`.
 
 We have Pure functions.
 
@@ -73,5 +73,7 @@ You can still Write bad code using Functional Programming.
 ## Does it Work?
 
 yes, It works Seemlessly.
+
+## Reference for this article
 
 `Reference` : `https://youtu.be/0if71HOyVjY`
