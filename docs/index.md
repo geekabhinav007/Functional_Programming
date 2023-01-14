@@ -38,6 +38,27 @@ So, Here we are borrowing function from the mathmatician and started the Functio
 
 Don't change anything only look for Input and produce output.
 
+Now on fresh paper with working part of application we Combine the all to a Function but proble is still same if something or some dataStructure are mutable then the problem arries because in mathamtics we have function having Immutable properties.
+
+```text
+Make every data strctures Immutable.
+```
+Now How would we change the things if everything is Immutable.
+
+Now we will ask for Copy of the datastrcture that have same things that we require.
+Means If we have an array `a = [1,2,3]` we will ask for a copy of array a having middle element `5`.
+`acopy = [1,2,3]`.
+
+We have Pure functions.
+
+Now we have a problem of COPIES? ISNT'IT?
+
+Now the solution is Persistent Data Strcture.
+
+```text
+
+```
+
 ## What is it like?
 
 ## Does it Work?
